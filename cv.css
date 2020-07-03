@@ -1,0 +1,86 @@
+body{
+    padding: 20px;
+    margin: 50px;
+    background-color: rgba(235, 227, 233, 0.8);
+}
+.colonne11{
+    width: 80%;
+    height: 100px;
+}
+.colonne12{
+    width: 10px;
+    height: 100px;
+}
+img{
+    height: 110px;
+    width: 110px;
+}
+.img{
+    float: right;
+}
+.ligne2{
+    height: 110px;
+    display: flex;
+    width: 100%;
+    border-bottom: 1px rgb(0, 89, 255) solid;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    }
+ .ligne1{
+     height: 140px;
+    display: flex;
+    width: 100%;
+    border-bottom: 1px rgb(0, 89, 255) solid;
+    }
+h4{
+    display: inline;
+}
+h5{
+    display: inline;
+}
+.ligne3{
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 200px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    border-bottom: 1px rgb(0, 89, 255) solid;
+    }
+.colonne23{
+    width: 70%;
+    height: 40px;
+    flex: 4;
+}
+.colonne22{
+    width: 40%;
+   justify-content: center;
+    height: 60px; 
+    padding-left: 50px;
+}
+.ligne{
+    height: 88px;
+    display: flex;
+    width: 100%;
+    }
+h3{
+    color: rgb(0, 89, 255);
+}
+h2{
+    color: rgb(0, 89, 255);
+}
+
+.ligne6{
+    border-bottom: 1px rgb(0, 89, 255) solid;
+    height:130px;
+}
+.ligne5{
+    border-bottom: 1px rgb(0, 89, 255) solid;
+    height:130px;
+}
+.ligne4{
+    border-bottom: 1px rgb(0, 89, 255) solid;
+    height: 400PX;
+}
